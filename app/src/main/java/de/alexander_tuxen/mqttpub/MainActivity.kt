@@ -12,8 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var pub_message = findViewById(R.id.pub_message) as EditText
-        var pub_button = findViewById(R.id.pub_button) as Button
 
     }
 }
