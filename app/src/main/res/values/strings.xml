@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mqtt pub</string>
+    <string name="publish">Publish</string>
+    <string name="mqttMessage">MQTT Message</string>
+</resources>
